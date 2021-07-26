@@ -5,6 +5,7 @@
 2. When you see window like this:
 3. ![image](https://cdn.discordapp.com/attachments/868369908696776714/869348469905698856/Screenshot_3.png)
 4. Drop jetbrains-agent.jar into this window and click "Restart"
+5. After restart click on "Install" and "Yes"
 
 ## WebStorm (HTML/CSS/JS):
 1. WebStorm - https://download-cdn.jetbrains.com/webstorm/WebStorm-2020.1.1.exe # WINDOWS
